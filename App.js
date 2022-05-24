@@ -14,7 +14,7 @@ export default class App extends Component
 {
 render() {
  return(
-  
+  // navegacao
   <NavigationContainer>
     <Tab.Navigator 
       initialRouteName=""
